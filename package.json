@@ -1,0 +1,22 @@
+{
+  "name": "2.express",
+  "version": "1.0.0",
+  "description": "A Express Project ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev":"nodemon index.js"
+
+  },
+  "keywords": [
+    "Pallab"
+  ],
+  "author": "Pallab Nath",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
